@@ -1,6 +1,12 @@
 PROJETO
-
-***
+PROJETO EM GRUPO COMO TAREFA FINAL DO CURSO EM PROGRAMAÇÃO FULL STACK NA [TOTI](https://totidiversidade.com.br/)
+---
+EQUIPE
+* Gabriela Nunez
+* Daily campos
+* Maloni Brow
+* Salvador Augusto Intchala
+---
 
 PÁGINA INICIAL DA APLICAÇÃO
 ![inicio](src/Images/inicio.png)
@@ -34,3 +40,8 @@ EDITAR
 
 RECURSOS
 <img src="src/Images/recursos.png" width="" height="" alt="inicio">
+
+---
+
+PARTICIPAÇÕES
+<img src="src/Images/participacoes.png" width="" height="" alt="inicio">
